@@ -1,4 +1,4 @@
-# error-page-template design
+# Error-page-template design
 
 - `404 page template design`
 
